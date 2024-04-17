@@ -230,7 +230,7 @@ Trend analysis in the dataset reveals certain patterns and preferences in the ai
 <details><summary>EV Data Sorting, Deviance and Comparison 2024</summary>
 <br>
 
-### EV Data Sorting, Deviance and Comparison 2024
+### EV Price Data Sorting, Deviance and Comparison 2024
 
 Identifying deviations while also sorting and comparing the 10 most popular EV brands, brand models, and trends.
 
