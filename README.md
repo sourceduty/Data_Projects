@@ -86,6 +86,8 @@ To successfully develop a data project analyzing inconsistencies in laws and reg
 ### Related Links
 
 [Data Project](https://chat.openai.com/g/g-Rwc3ikNU7-data-project)
+<br>
+[Data Metrics](https://github.com/sourceduty/Data_Metrics)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
