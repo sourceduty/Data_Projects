@@ -89,6 +89,8 @@ To successfully develop a data project analyzing inconsistencies in laws and reg
 <details><summary>Top Grossing Movies</summary>
 <br>
 
+The 15 top-grossing movies sorted by title length and meaning.
+
 The titles of the 15 top-grossing movies range from widely recognized blockbuster franchises to unique standalone films. Each movie title has its particular meaning or cultural significance, reflecting themes, characters, or the story's settings. For example, "Avatar" refers to the artificially created bodies used by characters to interact in an alien world, while "The Force Awakens" alludes to the resurgence of mystical power in the "Star Wars" universe. Exploring these meanings offers insights into the narrative elements and broader cultural resonance of each film, illustrating why they have captivated such vast audiences globally.
 
 ### Data
@@ -97,7 +99,7 @@ This [dataset](https://www.kaggle.com/datasets/akankshaaa013/top-grossing-movies
 
 #
 
-Step 1: Top 15 Grossing Movies (sorted by Total Gross):
+Top 15 Grossing Movies (sorted by Total Gross):
 
  1. Star Wars: Episode VII - The Force Awakens - $936,662,225
  2. Avengers: Endgame - $858,373,000
@@ -115,7 +117,7 @@ Step 1: Top 15 Grossing Movies (sorted by Total Gross):
 14. Titanic - $600,683,057
 15. The Super Mario Bros. Movie - $574,934,330
 
-Step 2: Top 15 Movies Sorted by Title Length:
+Top 15 Movies Sorted by Title Length:
 
  1. Avatar - 6
  2. Barbie - 6
