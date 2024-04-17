@@ -102,7 +102,7 @@ This [dataset](https://www.kaggle.com/datasets/akankshaaa013/top-grossing-movies
 
 #
 
-Top 15 Grossing Movies (sorted by Total Gross):
+### Top 15 Grossing Movies (sorted by Total Gross):
 
  1. Star Wars: Episode VII - The Force Awakens - $936,662,225
  2. Avengers: Endgame - $858,373,000
@@ -120,7 +120,7 @@ Top 15 Grossing Movies (sorted by Total Gross):
 14. Titanic - $600,683,057
 15. The Super Mario Bros. Movie - $574,934,330
 
-Top 15 Movies Sorted by Title Length:
+### Top 15 Movies Sorted by Title Length:
 
  1. Avatar - 6
  2. Barbie - 6
@@ -137,6 +137,12 @@ Top 15 Movies Sorted by Title Length:
 13. The Super Mario Bros. Movie - 27
 14. Star Wars: Episode VIII - The Last Jedi - 39
 15. Star Wars: Episode VII - The Force Awakens - 42
+
+### Top 15 Grossing Movies over Top 15 Movies Sorted by Title Length
+
+![Top_15_Grossing_Movies_vs_Title_Length](https://github.com/sourceduty/Data_Projects/assets/123030236/b40f1f01-6c51-44ee-a0e3-7f57c8e168f5)
+
+Here's a horizontal bar chart displaying the total gross earnings of the top 15 movies, sorted by the length of their titles. Each bar represents a movie, with the length of the bar indicating its earnings. The movies are arranged with the longest title at the top and the shortest at the bottom. This visualization provides a unique perspective on the relationship between the length of a movie's title and its box office success.
 
 <br>    
 </details>
