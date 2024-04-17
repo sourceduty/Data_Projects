@@ -101,7 +101,6 @@ The latest movie in the dataset is "Godzilla x Kong: The New Empire," which was 
 This [dataset](https://www.kaggle.com/datasets/akankshaaa013/top-grossing-movies-dataset) was used for this analysis.
 
 #
-
 ### Top 15 Grossing Movies (sorted by Total Gross):
 
  1. Star Wars: Episode VII - The Force Awakens - $936,662,225
@@ -120,6 +119,7 @@ This [dataset](https://www.kaggle.com/datasets/akankshaaa013/top-grossing-movies
 14. Titanic - $600,683,057
 15. The Super Mario Bros. Movie - $574,934,330
 
+#
 ### Top 15 Movies Sorted by Title Length:
 
  1. Avatar - 6
@@ -138,6 +138,7 @@ This [dataset](https://www.kaggle.com/datasets/akankshaaa013/top-grossing-movies
 14. Star Wars: Episode VIII - The Last Jedi - 39
 15. Star Wars: Episode VII - The Force Awakens - 42
 
+#
 ### Top 15 Grossing Movies over Top 15 Movies Sorted by Title Length
 
 ![Top_15_Grossing_Movies_vs_Title_Length](https://github.com/sourceduty/Data_Projects/assets/123030236/b40f1f01-6c51-44ee-a0e3-7f57c8e168f5)
