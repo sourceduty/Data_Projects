@@ -172,6 +172,61 @@ Here's a horizontal bar chart displaying the total gross earnings of the top 15 
 <br>    
 </details>
 
+<details><summary>Airline Reviews</summary>
+<br>
+
+### Airline Reviews
+
+Sorting the 5 most popular airline brands, brand locations, brand reviews, aircraft and trends.
+
+The dataset provided is a comprehensive collection of airline reviews, encompassing a range of data points including airline names, overall ratings, review titles, review dates, aircraft types, and routes, among other details. This information has been used to analyze customer feedback on various airlines and their services. From the dataset, the most frequently reviewed airlines include Caribbean Airlines, GoAir, and Germanwings, each receiving around 100 reviews. Popular routes, such as Melbourne to Sydney and Sydney to Melbourne, indicate a significant volume of passenger traffic and feedback on these corridors. Aircraft types such as the Airbus A320 and Boeing 737-800 are among the most commonly reviewed, suggesting their prevalent use in the commercial aviation sector. Reviews cover various aspects of the travel experience, including cabin comfort, staff service, food and beverages, and overall value for money.
+
+#
+### Data
+
+This [dataset](https://www.kaggle.com/datasets/juhibhojani/airline-reviews) was used for this analysis.
+
+#
+
+### Five Most Popular Airline Brands by Review Count
+
+   - Caribbean Airlines: 100 reviews
+   - GoAir: 100 reviews
+   - Germanwings: 100 reviews
+   - Philippine Airlines: 100 reviews
+   - Bangkok Airways: 100 reviews
+
+### Five Most Popular Airline Brand Locations by Review Count
+
+   - Melbourne to Sydney: 43 reviews
+   - Sydney to Melbourne: 35 reviews
+   - Cape Town to Johannesburg: 34 reviews
+   - Cusco to Lima: 30 reviews
+   - Bangkok to Phuket: 28 reviews
+
+### Five Most Popular Airline Reviews by Review Title Frequency
+
+   - "Onur Air customer review": 84 mentions
+   - "US Airways customer review": 75 mentions
+   - "Germanwings customer review": 74 mentions
+   - "Meridiana customer review": 71 mentions
+   - "CityJet customer review": 68 mentions
+
+ ### Five Most Popular Aircraft by Review Count
+
+   - Airbus A320: 1041 reviews
+   - Boeing 737-800: 553 reviews
+   - Boeing 737: 404 reviews
+   - Airbus A330: 349 reviews
+   - Boeing 787: 349 reviews
+
+### Trend Analysis
+
+Trend analysis in the dataset reveals certain patterns and preferences in the airline industry. For instance, popular aircraft models like the Airbus A320 and Boeing 737 series dominate the reviews, indicating their widespread use and possibly reflecting passenger satisfaction or commonality in fleets across airlines. The routes with the highest number of reviews often involve major city pairs, suggesting higher travel demand and possibly more scrutiny from travelers. The dataset also suggests trends in customer expectations and airline performance, as indicated by frequent positive or negative reviews for specific airlines and services. However, a detailed temporal trend analysis was hindered by issues with the 'Review Date' field, which could have provided insights into changes in passenger experiences and airline service quality over time.
+
+<br>    
+</details>
+
 ***
 ### Related Links
 
