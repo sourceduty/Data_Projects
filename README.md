@@ -135,7 +135,9 @@ Top 15 Movies Sorted by Title Length:
 14. Star Wars: Episode VIII - The Last Jedi - 39
 15. Star Wars: Episode VII - The Force Awakens - 42
 
-The latest movie in the dataset is "Godzilla x Kong: The New Empire," which was released on March 29, 2024, and has grossed $135,037,630.
+#
+
+- The latest movie in the dataset is "Godzilla x Kong: The New Empire," which was released on March 29, 2024, and has grossed $135,037,630.
 
 <br>    
 </details>
