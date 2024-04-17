@@ -91,7 +91,11 @@ To successfully develop a data project analyzing inconsistencies in laws and reg
 
 The titles of the 15 top-grossing movies range from widely recognized blockbuster franchises to unique standalone films. Each movie title has its particular meaning or cultural significance, reflecting themes, characters, or the story's settings. For example, "Avatar" refers to the artificially created bodies used by characters to interact in an alien world, while "The Force Awakens" alludes to the resurgence of mystical power in the "Star Wars" universe. Exploring these meanings offers insights into the narrative elements and broader cultural resonance of each film, illustrating why they have captivated such vast audiences globally.
 
+### Data
+
 This [dataset](https://www.kaggle.com/datasets/akankshaaa013/top-grossing-movies-dataset) was used for this analysis.
+
+#
 
 Step 1: Top 15 Grossing Movies (sorted by Total Gross):
 
