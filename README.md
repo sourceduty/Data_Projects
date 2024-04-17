@@ -3,6 +3,7 @@
 Sourceduty's data projects represent a pinnacle of innovation and precision in the realm of data analytics. With an unwavering commitment to excellence, Sourceduty leverages cutting-edge technologies and methodologies to extract valuable insights from vast and complex datasets. These projects are meticulously crafted to address specific challenges and opportunities, empowering organizations to make informed decisions and drive meaningful impact. Whether it's optimizing processes, predicting trends, or uncovering hidden patterns, Sourceduty's data projects stand as a testament to their dedication to pushing the boundaries of what's possible in the data-driven world.
 
 ***
+### Concept Projects
 
 <details><summary>Canadian Law Deviance</summary>
 <br>
@@ -78,6 +79,55 @@ To successfully develop a data project analyzing inconsistencies in laws and reg
 <br>
 
 [Space Agencies](https://github.com/sourceduty/Space_Agencies)
+
+<br>    
+</details>
+
+***
+### Data Projects
+
+<details><summary>Top Grossing Movies</summary>
+<br>
+
+The titles of the 15 top-grossing movies range from widely recognized blockbuster franchises to unique standalone films. Each movie title has its particular meaning or cultural significance, reflecting themes, characters, or the story's settings. For example, "Avatar" refers to the artificially created bodies used by characters to interact in an alien world, while "The Force Awakens" alludes to the resurgence of mystical power in the "Star Wars" universe. Exploring these meanings offers insights into the narrative elements and broader cultural resonance of each film, illustrating why they have captivated such vast audiences globally.
+
+This [dataset](https://www.kaggle.com/datasets/akankshaaa013/top-grossing-movies-dataset) was used for this analysis.
+
+Step 1: Top 15 Grossing Movies (sorted by Total Gross):
+
+ 1. Star Wars: Episode VII - The Force Awakens - $936,662,225
+ 2. Avengers: Endgame - $858,373,000
+ 3. Spider-Man: No Way Home - $804,793,477
+ 4. Avatar - $749,766,139
+ 5. Top Gun: Maverick - $718,732,821
+ 6. Black Panther - $700,059,566
+ 7. Avatar: The Way of Water - $684,075,767
+ 8. Avengers: Infinity War - $678,815,482
+ 9. Jurassic World - $652,270,625
+10. Barbie - $636,238,421
+11. The Avengers - $623,357,910
+12. Star Wars: Episode VIII - The Last Jedi - $620,181,382
+13. Incredibles 2 - $608,581,744
+14. Titanic - $600,683,057
+15. The Super Mario Bros. Movie - $574,934,330
+
+Step 2: Top 15 Movies Sorted by Title Length:
+
+ 1. Avatar - 6
+ 2. Barbie - 6
+ 3. Titanic - 7
+ 4. The Avengers - 12
+ 5. Black Panther - 13
+ 6. Incredibles 2 - 13
+ 7. Jurassic World - 14
+ 8. Avengers: Endgame - 17
+ 9. Top Gun: Maverick - 17
+10. Avengers: Infinity War - 22
+11. Spider-Man: No Way Home - 23
+12. Avatar: The Way of Water - 24
+13. The Super Mario Bros. Movie - 27
+14. Star Wars: Episode VIII - The Last Jedi - 39
+15. Star Wars: Episode VII - The Force Awakens - 42
 
 <br>    
 </details>
