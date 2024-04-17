@@ -86,7 +86,7 @@ To successfully develop a data project analyzing inconsistencies in laws and reg
 ***
 ### Data Projects
 
-<details><summary>Top Grossing Movies</summary>
+<details><summary>Top Grossing Movies 2024</summary>
 <br>
 
 The 15 top-grossing movies sorted by title length and meaning.
@@ -134,6 +134,8 @@ Top 15 Movies Sorted by Title Length:
 13. The Super Mario Bros. Movie - 27
 14. Star Wars: Episode VIII - The Last Jedi - 39
 15. Star Wars: Episode VII - The Force Awakens - 42
+
+The latest movie in the dataset is "Godzilla x Kong: The New Empire," which was released on March 29, 2024, and has grossed $135,037,630.
 
 <br>    
 </details>
