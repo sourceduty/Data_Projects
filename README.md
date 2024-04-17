@@ -283,6 +283,8 @@ The data showcases the prices of ten popular electric vehicle (EV) models, provi
 #
 ### Top 10 EV Brand Price Deviance
 
+![EV_Price_Deviance](https://github.com/sourceduty/Data_Projects/assets/123030236/33768010-45ba-42d1-b366-f5e75ffbd0b4)
+
 First, let's calculate the average price:
 
 Average Price = (35,000 + 45,000 + 31,600 + 44,450 + 31,995 + 65,900 + 37,390 + 39,090 + 69,900 + 39,995) / 10
