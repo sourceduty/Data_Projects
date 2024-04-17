@@ -227,7 +227,7 @@ Trend analysis in the dataset reveals certain patterns and preferences in the ai
 <br>    
 </details>
 
-<details><summary>EV Data Sorting, Deviance and Comparison 2024</summary>
+<details><summary>EV Price Data Sorting, Deviance and Comparison 2024</summary>
 <br>
 
 ### EV Price Data Sorting, Deviance and Comparison 2024
