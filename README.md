@@ -95,6 +95,7 @@ The titles of the 15 top-grossing movies range from widely recognized blockbuste
 
 The latest movie in the dataset is "Godzilla x Kong: The New Empire," which was released on March 29, 2024, and has grossed $135,037,630.
 
+#
 ### Data
 
 This [dataset](https://www.kaggle.com/datasets/akankshaaa013/top-grossing-movies-dataset) was used for this analysis.
