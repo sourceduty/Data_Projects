@@ -301,7 +301,7 @@ Total Price Deviance ≈ $11,657.75
 **So, the total price deviance of the top 10 EV brand models is approximately $11,657.75.**
 
 #
-### Top 10 EV Brand Model Cost Comparison
+### Top 10 EV Brand Model Price Comparison
 
 ![EV_Model_Price_Comparison](https://github.com/sourceduty/Data_Projects/assets/123030236/0d3d922b-7311-4cb9-82b5-ab713b07459d)
 
