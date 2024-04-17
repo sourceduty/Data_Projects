@@ -93,6 +93,8 @@ The 15 top-grossing movies sorted by title length and meaning.
 
 The titles of the 15 top-grossing movies range from widely recognized blockbuster franchises to unique standalone films. Each movie title has its particular meaning or cultural significance, reflecting themes, characters, or the story's settings. For example, "Avatar" refers to the artificially created bodies used by characters to interact in an alien world, while "The Force Awakens" alludes to the resurgence of mystical power in the "Star Wars" universe. Exploring these meanings offers insights into the narrative elements and broader cultural resonance of each film, illustrating why they have captivated such vast audiences globally.
 
+The latest movie in the dataset is "Godzilla x Kong: The New Empire," which was released on March 29, 2024, and has grossed $135,037,630.
+
 ### Data
 
 This [dataset](https://www.kaggle.com/datasets/akankshaaa013/top-grossing-movies-dataset) was used for this analysis.
@@ -134,10 +136,6 @@ Top 15 Movies Sorted by Title Length:
 13. The Super Mario Bros. Movie - 27
 14. Star Wars: Episode VIII - The Last Jedi - 39
 15. Star Wars: Episode VII - The Force Awakens - 42
-
-#
-
-- The latest movie in the dataset is "Godzilla x Kong: The New Empire," which was released on March 29, 2024, and has grossed $135,037,630.
 
 <br>    
 </details>
