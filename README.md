@@ -227,6 +227,125 @@ Trend analysis in the dataset reveals certain patterns and preferences in the ai
 <br>    
 </details>
 
+<details><summary>EV Data Sorting, Deviance and Comparison</summary>
+<br>
+
+### EV Data Sorting, Deviance and Comparison
+
+Identifying deviations while also sorting and comparing the 10 most popular EV brands, brand models, and trends.
+
+The data showcases the prices of ten popular electric vehicle (EV) models, providing a snapshot of the market landscape for consumers interested in environmentally friendly transportation. The models range from the more affordable Tesla Model 3 and Nissan Leaf, priced around $35,000, to the high-end Jaguar I-PACE and Audi e-tron, which approach or exceed $65,000. The average price of these vehicles is approximately $44,032, highlighting a significant variance in what consumers might expect to pay. This diversity in pricing reflects the broadening appeal of electric vehicles, catering to different financial capacities and preferences. The calculated total cost deviance of $9,824.40 indicates a substantial spread around the average, suggesting that while some models are priced near the average, others deviate markedly either in the direction of luxury or economy, illustrating the evolving nature of the EV market.
+
+#
+### Top 10 EV Brands
+
+1. Tesla
+2. Nissan
+3. BMW
+4. Chevrolet
+5. Audi
+6. Hyundai
+7. Kia
+8. Jaguar
+9. Volkswagen
+10. Mercedes-Benz
+
+#
+### Top 10 EV Brand Models
+
+1. Tesla Model 3
+2. Tesla Model Y
+3. Nissan Leaf
+4. BMW i3
+5. Chevrolet Bolt EV
+6. Audi e-tron
+7. Hyundai Kona Electric
+8. Kia Niro EV
+9. Jaguar I-PACE
+10. Volkswagen ID.4
+
+#
+### Top 10 EV Brand Model Prices (USD)
+
+![EV_Prices](https://github.com/sourceduty/Data_Projects/assets/123030236/e266e413-1b68-4b37-90a6-a8d34d805c66)
+
+1. Tesla Model 3: $35,000
+2. Tesla Model Y: $45,000
+3. Nissan Leaf: $31,600
+4. BMW i3: $44,450
+5. Chevrolet Bolt EV: $31,995
+6. Audi e-tron: $65,900
+7. Hyundai Kona Electric: $37,390
+8. Kia Niro EV: $39,090
+9. Jaguar I-PACE: $69,900
+10. Volkswagen ID.4: $39,995
+
+#
+### Top 10 EV Brand Price Deviance
+
+First, let's calculate the average price:
+
+Average Price = (35,000 + 45,000 + 31,600 + 44,450 + 31,995 + 65,900 + 37,390 + 39,090 + 69,900 + 39,995) / 10
+≈ $45,332.50
+
+Now, let's calculate the total price deviance:
+
+Total Price Deviance = (|35,000 - 45,332.50| + |45,000 - 45,332.50| + |31,600 - 45,332.50| + |44,450 - 45,332.50| + |31,995 - 45,332.50| + |65,900 - 45,332.50| + |37,390 - 45,332.50| + |39,090 - 45,332.50| + |69,900 - 45,332.50| + |39,995 - 45,332.50|) / 10
+
+Total Price Deviance ≈ (10,332.50 + 332.50 + 13,732.50 + 882.50 + 13,337.50 + 20,567.50 + 7,942.50 + 6,242.50 + 24,567.50 + 5,337.50) / 10
+
+Total Price Deviance ≈ $11,657.75
+
+**So, the total price deviance of the top 10 EV brand models is approximately $11,657.75.**
+
+#
+### Top 10 EV Brand Model Cost Comparison
+
+![EV_Model_Price_Comparison](https://github.com/sourceduty/Data_Projects/assets/123030236/0d3d922b-7311-4cb9-82b5-ab713b07459d)
+
+Nissan Leaf:
+
+- Closest in Price: Chevrolet Bolt EV - $31,995 (Cheaper by $395)
+
+Chevrolet Bolt EV:
+
+- Closest in Price: Nissan Leaf - $31,600 (Cheaper by $395)
+
+Tesla Model 3:
+
+- Closest in Price: Nissan Leaf - $31,600 (More expensive by $3,400)
+
+Hyundai Kona Electric:
+
+- Closest in Price: Nissan Leaf - $31,600 (More expensive by $5,790)
+
+Kia Niro EV:
+
+- Closest in Price: Nissan Leaf - $31,600 (More expensive by $7,490)
+
+Volkswagen ID.4:
+
+- Closest in Price: Chevrolet Bolt EV - $31,995 (Cheaper by $8,395)
+
+BMW i3:
+
+- Closest in Price: Chevrolet Bolt EV - $31,995 (Cheaper by $12,455)
+
+Tesla Model Y:
+
+- Closest in Price: Nissan Leaf - $31,600 (More expensive by $13,400)
+
+Audi e-tron:
+
+- Closest in Price: Chevrolet Bolt EV - $31,995 (More expensive by $33,905)
+
+Jaguar I-PACE:
+
+- Closest in Price: Chevrolet Bolt EV - $31,995 (More expensive by $37,905)
+
+<br>    
+</details>
+
 ***
 ### Notes
 
