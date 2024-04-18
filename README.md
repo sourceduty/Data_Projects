@@ -389,6 +389,74 @@ The dataset comprises 166 hats meticulously organized by Type, Material, Season,
 <br>    
 </details>
 
+<details><summary>Smartphones in 2024</summary>
+<br>
+
+Dataset of the top 100 smartphones in 2024.
+
+[Top 100 Smartphones in 2024.xlsx](https://github.com/sourceduty/Data_Projects/files/15028282/Top.100.Smartphones.in.2024.xlsx)
+
+The dataset titled "Top 100 Smartphones in 2024" provides a detailed overview of the leading smartphone models for the year 2024. It includes five key attributes for each phone: 'Brand Name', 'Phone Name', 'Brand Name Origin', 'Colors', and 'Brand Age'. This dataset lists various smartphone brands along with their specific models and details such as the country where the brand is based and the palette of colors available for each model. Additionally, it provides the year each brand was established, offering insight into the longevity and heritage of these companies. Brands featured include major industry players like Apple, Google, and Samsung, among others, showcasing a diverse range of options in terms of technology and design preferences available in the market.
+
+### Smartphone Brand Name Usage
+
+Across the smartphone industry, brands employ a mix of numerical sequencing and descriptive suffixes to delineate their product lines and target different market segments. Brands like Apple, Google, and Samsung opt for incremental numbers paired with terms like "Pro," "Max," and "Ultra" to signify advanced features or larger sizes. OnePlus and Xiaomi also use similar descriptors, adding "Pro" or "T" to indicate premium or slightly upgraded versions. Oppo and Vivo use a blend of numbers and letters, with series names like "Find" and "Reno" to represent technological prowess and mid-range options, respectively. Meanwhile, Huawei divides its focus with the "Mate" and "P" series for professional and photographic excellence. Brands such as Sony and Motorola maintain a consistent naming strategy that highlights key features, such as Sony’s "Compact" for smaller devices and Motorola’s "Edge" for edge-to-edge displays. Nokia keeps to a straightforward numeric system that easily categorizes their phones from basic to more advanced. These naming strategies not only reflect each brand's unique marketing approach but also help consumers navigate the diverse offerings within the smartphone market.
+
+Apple: Known for its minimalist product names, Apple tends to use simple numerical increments and descriptors like "Pro" or "Max" to differentiate its models, focusing on an easy-to-understand progression that reflects enhancements and size differences. The use of terms like "SE" denotes special edition or more affordable versions.
+
+Google: Google's Pixel series maintains a straightforward numeric progression (e.g., Pixel 8, Pixel 8 Pro), indicating generational changes with simple suffixes like "Pro" for premium features. The use of letters like "a" in Pixel 8a suggests a more affordable, albeit slightly less powerful variant of their flagship models.
+
+Samsung: Samsung exhibits a diverse naming strategy with series like the Galaxy S, Galaxy Z, and Galaxy Note. Each series is designed to target different user needs and preferences—S for flagship, Z for foldable innovations, and Note for productivity-focused users with stylus support. They use terms like "Ultra" and "Flip" to denote specific functionalities or form factors.
+
+OnePlus: OnePlus follows a numerical sequence often supplemented by descriptors such as "Pro" or "T" to indicate minor upgrades or enhancements over the base models. The use of "Nord" signifies their more budget-friendly line, which aims to offer premium features at a more accessible price point.
+
+Xiaomi: Xiaomi’s approach includes using numerical sequences, along with a mix of names like "Mi" and "Redmi," the latter typically denoting more economical choices. They also use "Pro" and "Ultra" to distinguish higher-end specifications within the same model line.
+
+Oppo: Oppo uses a mix of numeric and alphabetic naming, with series like "Find" often representing their most technologically advanced offerings, while "Reno" serves more middle-market segments. The addition of terms like "Pro" and "Plus" usually means enhancements in camera capabilities, battery life, or screen technology.
+
+Huawei: This brand employs a mixed strategy with the use of both the "Mate" and "P" series, where "Mate" often represents flagship business-centric devices and "P" focuses on photography and aesthetics. Huawei also uses terms like "Pro" and "X" to denote professional-grade features and foldable tech, respectively.
+
+Vivo: Vivo uses series names like "X," "Y," and "S" to differentiate between their high-end, mid-range, and budget-friendly offerings, respectively. The addition of "Pro" and "Plus" are common for indicating models with superior specs or features in comparison to their base models.
+
+Sony: Sony Xperia names often include a number to indicate succession, with "Compact" historically used to denote smaller, more manageable versions of their larger counterparts. Sony focuses on continuity in naming, preserving the Xperia brand which has become synonymous with their mobile devices.
+
+Motorola: Motorola uses names like "Edge" to signify their higher-end phones with edge-to-edge displays, while "Moto G" represents their more budget-friendly offerings. The use of terms like "Ultra" indicates the top-tier model with maximum features.
+
+Nokia: Nokia often uses numbers to represent their models, making a clear distinction between feature phones and smartphones. Higher numbers generally indicate more advanced features or newer designs, continuing a simple and historic naming convention.
+
+LG: Before discontinuing their smartphone production, LG used names like "ThinQ" and "Velvet" to indicate smart technology integration and premium design lines, respectively. They often used "V" and "G" series, with V typically showcasing more high-end features and G more mass-market appeal.
+
+### Smartphone Brand Name Spelling 
+
+The spelling traits of smartphone brand names often reflect core aspects of their marketing and brand identity. Names like "Apple" and "Sony" are short, simple, and universally recognizable, emphasizing ease of use and a broad appeal. "Google" and "Oppo," with their playful double letters, convey a friendly and approachable image. Brands such as "Samsung" and "Motorola" provide a robust and reliable aura through their solid, historical names. "OnePlus" and "Vivo" use positive connotations in their names to suggest added value and vitality, respectively. Names like "Xiaomi" and "Huawei" maintain a distinctive cultural identity, which adds an exotic appeal in international markets. "Nokia" and "LG" evoke a sense of tradition and lifestyle enhancement, aligning with their product offerings and historical roots. Overall, these spelling traits are carefully crafted to support the brand's strategic positioning, making them memorable and aligning with consumer perceptions of their products.
+
+Apple: The name "Apple" is straightforward and universally recognizable, embodying simplicity and accessibility. Its spelling is clean and iconic, which aligns with the company's design philosophy. The simplicity of the name "Apple" matches its minimalist product design and user-friendly technology.
+
+Google: "Google" is a playful and memorable name, derived from the mathematical term "googol," reflecting the company's origin in data and search capabilities. The double 'o' in Google adds a playful characteristic, making it approachable and friendly, which is a smart move for a brand aiming to be integral in daily life through various technologies.
+
+Samsung: "Samsung" means "three stars" in Korean, symbolizing something big, numerous, and powerful. The name is solid and has a robust sound to it, which reflects the company's reputation for reliability and its massive presence in the electronics market worldwide.
+
+OnePlus: The brand name "OnePlus" suggests addition or enhancement, which fits its marketing strategy of offering more for less. The "Plus" in the name implies superior quality or features, aligning with the brand’s aim to compete by providing premium features at competitive prices.
+
+Xiaomi: In Chinese, "Xiaomi" translates to "millet and rice," which signifies affordability and accessibility, core principles of the brand. The name has an exotic appeal in non-Chinese speaking markets, giving it a distinctive presence amidst mostly English brand names.
+
+Oppo: "Oppo" is easy to pronounce and remember, which is beneficial for global branding. The palindrome nature of the name adds a catchy and balanced aesthetic, which is likely designed to make the brand stand out in the consumer's mind.
+
+Huawei: "Huawei" means "splendid achievement" or "China is able," reflecting national pride and technological ambition. The name's pronunciation may pose challenges in non-Chinese speaking countries, but it also adds an exotic appeal to the brand, distinguishing it in the global market.
+
+Vivo: "Vivo" means "live" in Italian and Spanish, giving the brand a lively and energetic feel. The name is short, vibrant, and easy to remember, which helps in creating a youthful and dynamic brand image.
+
+Sony: "Sony" is derived from "sonus," the Latin word for sound, and "sonny," a slang term used in the 1950s in America to denote a young boy. It’s short, catchy, and easy to pronounce in various languages, making it ideal for a company that started in audio equipment and evolved into a diversified electronics giant.
+
+Motorola: The name "Motorola" was originally linked with motor vehicles and radios (hence "motor" + "ola"). It has a historical and solid ring to it, reflecting durability and reliability, traits that are valued in the telecommunications and electronics sectors.
+
+Nokia: "Nokia" originates from the Nokianvirta River in Finland, near where the company was founded. The name evokes a sense of heritage and reliability, important traits for a brand known historically for the durability and quality of its mobile phones.
+
+LG: "LG" stands for "Life's Good," and the abbreviation makes the brand name short and memorable. The positive connotation of the name aligns with the company's broad range of consumer electronics, aimed at enhancing the lifestyle of its users.
+
+<br>    
+</details>
+
 ***
 ### Notes
 
