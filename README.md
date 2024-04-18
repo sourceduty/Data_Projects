@@ -389,7 +389,7 @@ The dataset comprises 166 hats meticulously organized by Type, Material, Season,
 <br>    
 </details>
 
-<details><summary>Smartphones in 2024</summary>
+<details><summary>Smartphones 2024</summary>
 <br>
 
 Dataset of the top 100 smartphones in 2024.
