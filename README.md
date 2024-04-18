@@ -457,29 +457,6 @@ LG: "LG" stands for "Life's Good," and the abbreviation makes the brand name sho
 <br>    
 </details>
 
-***
-### Notes
-
-<details><summary>Deviated Standards</summary>
-<br>
-
-### Deviated Standards
-
-A standard serves as a reference point or model representing a desired level of quality or performance within a particular context. Deviations, on the other hand, signify departures from these standards, indicating differences between actual and expected states. A deviated standard refers to a modified version of the original standard, often adjusted to meet specific circumstances or requirements.
-
-Measuring a standard involves comparing the actual performance against the established standard to assess conformity or deviation. Similarly, measuring a deviation entails using quantitative or qualitative methods to quantify the extent of the difference between actual and expected values. When it comes to measuring a deviated standard, techniques akin to standard measurement are used, focusing on assessing the extent and nature of modifications made to the original standard.
-
-Standards and deviations play vital roles in quality control, performance evaluation, and decision-making across industries. They ensure consistency, identify areas for improvement, and facilitate benchmarking and compliance efforts. Deviated standard data, meanwhile, can be utilized to evaluate the effectiveness of modifications to existing standards, assess their impact on performance, and inform future revisions to better align with specific needs or conditions.
-
-Deviated standards serve as a critical tool for identifying and analyzing deviations within commonly utilized local and international standards across a spectrum of disciplines, including law, quality assurance, measurement protocols, social norms, business practices, communication frameworks, and beyond. These standards, originally established as benchmarks for desired outcomes or behaviors, may undergo modifications or adaptations to better suit specific contexts, requirements, or evolving circumstances. By systematically examining these deviations, stakeholders gain valuable insights into the extent, nature, and implications of alterations made to established norms. This process facilitates a comprehensive understanding of how standards evolve, the factors driving such changes, and the potential impacts on various facets of society, industry, and governance. Through the analysis of deviated standards, practitioners and policymakers can make informed decisions, refine existing frameworks, and ensure alignment with evolving needs and objectives.
-
-In statistics, "Standard Deviation" is a measure of the dispersion or spread of a set of data points around the mean (average) value. It indicates the extent to which individual data points deviate from the mean of the dataset. A higher standard deviation implies greater variability within the dataset, while a lower standard deviation suggests that data points are closer to the mean.
-
-On the other hand, "Deviated Standards" typically refers to deviations or modifications made to established norms, guidelines, or benchmarks. This term is often encountered in quality control, manufacturing, or regulatory contexts where standards are set as references for desired performance or outcomes. Deviated standards may result from specific circumstances, requirements, or intentional modifications to better suit particular conditions or needs.
-
-<br>    
-</details>
-
 <details><summary>Top 25 Types of 3D Printer Plastic 2024</summary>
 <br>
 
@@ -514,6 +491,29 @@ This dataset comprises information on the top 25 types of 3D printer plastics, a
 |       LCP         |     280°C     |     Low     |     High     | High-strength gears, automotive                   |   Proto Labs    |
 |  PLA Composite    |     180°C     |   Moderate  |   Moderate   | Artistic projects, composite models               |   Proto-pasta   |
 | Conductive PLA   |     180°C     |     Low     |   Moderate   | Electronics, sensors                              |   Proto-pasta   |
+
+<br>    
+</details>
+
+***
+### Notes
+
+<details><summary>Deviated Standards</summary>
+<br>
+
+### Deviated Standards
+
+A standard serves as a reference point or model representing a desired level of quality or performance within a particular context. Deviations, on the other hand, signify departures from these standards, indicating differences between actual and expected states. A deviated standard refers to a modified version of the original standard, often adjusted to meet specific circumstances or requirements.
+
+Measuring a standard involves comparing the actual performance against the established standard to assess conformity or deviation. Similarly, measuring a deviation entails using quantitative or qualitative methods to quantify the extent of the difference between actual and expected values. When it comes to measuring a deviated standard, techniques akin to standard measurement are used, focusing on assessing the extent and nature of modifications made to the original standard.
+
+Standards and deviations play vital roles in quality control, performance evaluation, and decision-making across industries. They ensure consistency, identify areas for improvement, and facilitate benchmarking and compliance efforts. Deviated standard data, meanwhile, can be utilized to evaluate the effectiveness of modifications to existing standards, assess their impact on performance, and inform future revisions to better align with specific needs or conditions.
+
+Deviated standards serve as a critical tool for identifying and analyzing deviations within commonly utilized local and international standards across a spectrum of disciplines, including law, quality assurance, measurement protocols, social norms, business practices, communication frameworks, and beyond. These standards, originally established as benchmarks for desired outcomes or behaviors, may undergo modifications or adaptations to better suit specific contexts, requirements, or evolving circumstances. By systematically examining these deviations, stakeholders gain valuable insights into the extent, nature, and implications of alterations made to established norms. This process facilitates a comprehensive understanding of how standards evolve, the factors driving such changes, and the potential impacts on various facets of society, industry, and governance. Through the analysis of deviated standards, practitioners and policymakers can make informed decisions, refine existing frameworks, and ensure alignment with evolving needs and objectives.
+
+In statistics, "Standard Deviation" is a measure of the dispersion or spread of a set of data points around the mean (average) value. It indicates the extent to which individual data points deviate from the mean of the dataset. A higher standard deviation implies greater variability within the dataset, while a lower standard deviation suggests that data points are closer to the mean.
+
+On the other hand, "Deviated Standards" typically refers to deviations or modifications made to established norms, guidelines, or benchmarks. This term is often encountered in quality control, manufacturing, or regulatory contexts where standards are set as references for desired performance or outcomes. Deviated standards may result from specific circumstances, requirements, or intentional modifications to better suit particular conditions or needs.
 
 <br>    
 </details>
