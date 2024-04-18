@@ -3,7 +3,7 @@
 Sourceduty's data projects represent a pinnacle of innovation and precision in the realm of data analytics. With an unwavering commitment to excellence, Sourceduty leverages cutting-edge technologies and methodologies to extract valuable insights from vast and complex datasets. These projects are meticulously crafted to address specific challenges and opportunities, empowering organizations to make informed decisions and drive meaningful impact. Whether it's optimizing processes, predicting trends, or uncovering hidden patterns, Sourceduty's data projects stand as a testament to their dedication to pushing the boundaries of what's possible in the data-driven world.
 
 ***
-### Concept Projects
+### Big Data Project Concepts
 
 <details><summary>Canadian Law Deviance</summary>
 <br>
