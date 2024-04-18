@@ -375,6 +375,20 @@ These trends indicate a maturing EV market with diverse offerings that cater to 
 <br>    
 </details>
 
+<details><summary>American Hats</summary>
+<br>
+
+![Hat](https://github.com/sourceduty/Data_Projects/assets/123030236/b474a0d0-37f4-4aea-8089-4050ef1f1431)
+
+Dataset of 166 American hats.
+
+[American Hats.xlsx](https://github.com/sourceduty/Data_Projects/files/15025940/American.Hats.xlsx)
+
+The dataset comprises 166 hats meticulously organized by Type, Material, Season, Estimated Price (USD), and Top Brand. Each entry offers a comprehensive insight into the diverse world of headwear, presenting a panorama of styles, fabrics, and brands. From classic fedoras to trendy beanies, the Type category delineates the varied styles available. Meanwhile, Material elucidates the construction, ranging from cozy wool to breathable cotton and luxurious silk. Season indicates the suitability of each hat for different climates and occasions, ensuring versatility in any wardrobe. The Estimated Price (USD) column provides an approximate value, offering valuable information for budget-conscious consumers and aficionados alike. Lastly, the Top Brand classification showcases the most renowned names in hat craftsmanship, guiding consumers towards quality and prestige. This dataset serves as an invaluable resource for market analysis, fashion research, and consumer insights within the vibrant realm of headwear.
+
+<br>    
+</details>
+
 ***
 ### Notes
 
@@ -394,20 +408,6 @@ Deviated standards serve as a critical tool for identifying and analyzing deviat
 In statistics, "Standard Deviation" is a measure of the dispersion or spread of a set of data points around the mean (average) value. It indicates the extent to which individual data points deviate from the mean of the dataset. A higher standard deviation implies greater variability within the dataset, while a lower standard deviation suggests that data points are closer to the mean.
 
 On the other hand, "Deviated Standards" typically refers to deviations or modifications made to established norms, guidelines, or benchmarks. This term is often encountered in quality control, manufacturing, or regulatory contexts where standards are set as references for desired performance or outcomes. Deviated standards may result from specific circumstances, requirements, or intentional modifications to better suit particular conditions or needs.
-
-<br>    
-</details>
-
-<details><summary>American Hats</summary>
-<br>
-
-![Hat](https://github.com/sourceduty/Data_Projects/assets/123030236/b474a0d0-37f4-4aea-8089-4050ef1f1431)
-
-Dataset of 166 American hats.
-
-[American Hats.xlsx](https://github.com/sourceduty/Data_Projects/files/15025940/American.Hats.xlsx)
-
-The dataset comprises 166 hats meticulously organized by Type, Material, Season, Estimated Price (USD), and Top Brand. Each entry offers a comprehensive insight into the diverse world of headwear, presenting a panorama of styles, fabrics, and brands. From classic fedoras to trendy beanies, the Type category delineates the varied styles available. Meanwhile, Material elucidates the construction, ranging from cozy wool to breathable cotton and luxurious silk. Season indicates the suitability of each hat for different climates and occasions, ensuring versatility in any wardrobe. The Estimated Price (USD) column provides an approximate value, offering valuable information for budget-conscious consumers and aficionados alike. Lastly, the Top Brand classification showcases the most renowned names in hat craftsmanship, guiding consumers towards quality and prestige. This dataset serves as an invaluable resource for market analysis, fashion research, and consumer insights within the vibrant realm of headwear.
 
 <br>    
 </details>
