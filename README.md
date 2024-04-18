@@ -1,4 +1,4 @@
-![Data Project](https://github.com/sourceduty/Data_Projects/assets/123030236/663c60d3-4260-4c1a-bad2-5210af792dda)
+[3D_Printer_Plastics.csv](https://github.com/sourceduty/Data_Projects/files/15028621/3D_Printer_Plastics.csv)[3D_Printer_Plastics.csv](https://github.com/sourceduty/Data_Projects/files/15028597/3D_Printer_Plastics.csv)[3D_Printer_Plastics.csv](https://github.com/sourceduty/Data_Projects/files/15028593/3D_Printer_Plastics.csv)![Data Project](https://github.com/sourceduty/Data_Projects/assets/123030236/663c60d3-4260-4c1a-bad2-5210af792dda)
 
 Sourceduty's data projects represent a pinnacle of innovation and precision in the realm of data analytics. With an unwavering commitment to excellence, Sourceduty leverages cutting-edge technologies and methodologies to extract valuable insights from vast and complex datasets. These projects are meticulously crafted to address specific challenges and opportunities, empowering organizations to make informed decisions and drive meaningful impact. Whether it's optimizing processes, predicting trends, or uncovering hidden patterns, Sourceduty's data projects stand as a testament to their dedication to pushing the boundaries of what's possible in the data-driven world.
 
@@ -476,6 +476,44 @@ Deviated standards serve as a critical tool for identifying and analyzing deviat
 In statistics, "Standard Deviation" is a measure of the dispersion or spread of a set of data points around the mean (average) value. It indicates the extent to which individual data points deviate from the mean of the dataset. A higher standard deviation implies greater variability within the dataset, while a lower standard deviation suggests that data points are closer to the mean.
 
 On the other hand, "Deviated Standards" typically refers to deviations or modifications made to established norms, guidelines, or benchmarks. This term is often encountered in quality control, manufacturing, or regulatory contexts where standards are set as references for desired performance or outcomes. Deviated standards may result from specific circumstances, requirements, or intentional modifications to better suit particular conditions or needs.
+
+<br>    
+</details>
+
+<details><summary>Top 25 Types of 3D Printer Plastic 2024</summary>
+<br>
+
+Dataset of 25 top types of 3D printer plastic.
+
+This dataset comprises information on the top 25 types of 3D printer plastics, a valuable resource for enthusiasts and professionals in the field of additive manufacturing. Each entry in the dataset includes five key attributes: the type of plastic, its melting point, flexibility, strength, and common uses, providing a comprehensive overview that facilitates material selection based on specific project requirements. For instance, materials such as ABS and PLA are noted for their application in general prototyping, with ABS offering high strength and PLA being favored for educational and biodegradable projects. Advanced materials like PEEK and ULTEM are highlighted for their high temperature resistance and applications in aerospace and medical industries. This dataset is essential for understanding the diverse properties and applications of various 3D printing plastics, aiding in the optimization of design and production processes in a multitude of industries.
+
+| Type of Plastic   | Melting Point | Flexibility | Strength     | Common Uses                                       | Top Brand       |
+|:-----------------:|:-------------:|:-----------:|:------------:|:-------------------------------------------------:|:---------------:|
+|        ABS        |     230°C     |     Low     |     High     | General prototyping, automotive parts             |    Ultimaker    |
+|        PLA        |     180°C     |     Low     |   Moderate   | Educational models, biodegradable items           |    Hatchbox     |
+|       PETG        |     230°C     |   Moderate  |     High     | Food safe containers, outdoor applications        |  MatterHackers  |
+|        TPU        |     225°C     |     High    |   Moderate   | Wearable devices, flexible parts                  |    NinjaTek     |
+|       Nylon       |     260°C     |     High    |     High     | Industrial tools, gears                           |   Taulman3D     |
+|        ASA        |     250°C     |     Low     |     High     | Outdoor applications, automotive                  |    3DXTech      |
+|        PVA        |     190°C     |     High    |     Low      | Support material, dissolvable                     |    Ultimaker    |
+|        PC         |     295°C     |     Low     |   Very High  | Bullet-proof glass, phone cases                   |    Polymaker    |
+|       HIPS        |     230°C     |     Low     |   Moderate   | Prototype models, dissolvable supports            |   Gizmo Dorks   |
+|        PP         |     220°C     |     High    |     High     | Living hinges, containers                         |      eSUN       |
+|       PEEK        |     343°C     |     Low     |   Very High  | Aerospace parts, medical implants                 |    3DXTECH      |
+|       ULTEM       |     360°C     |     Low     |   Very High  | High-temp applications, aerospace                 |     Sabic       |
+|        TPE        |     200°C     |     High    |   Moderate   | Flexible parts, gaskets                           |    NinjaTek     |
+|       PMMA        |     160°C     |     Low     |   Moderate   | Light fixtures, decorative objects                |    Polymaker    |
+|       PVDF        |     177°C     |     Low     |     High     | Chemical tanks, pipes                             |    3DXTECH      |
+|        PEI        |     340°C     |     Low     |   Very High  | High-temperature fixtures, aerospace              |     Ultem       |
+|       PAEK        |     360°C     |     Low     |   Very High  | Aerospace parts, high-performance components      |     Evonik      |
+|        FPE        |     260°C     |     High    |   Moderate   | Food containers, biodegradable items              |     Arkema      |
+|        PCL        |     60°C      |     High    |     Low      | Biomedical applications, low-melt models          |  MatterHackers  |
+|        MS         |     240°C     |     Low     |   Moderate   | Household appliances                              | Mitsubishi Chemical |
+|        PPS        |     280°C     |     Low     |   Very High  | Automotive parts, electronics                     |     Solvay      |
+|       PPSU        |     330°C     |     Low     |   Very High  | Medical instruments, sterilizable tools           |     Solvay      |
+|       LCP         |     280°C     |     Low     |     High     | High-strength gears, automotive                   |   Proto Labs    |
+|  PLA Composite    |     180°C     |   Moderate  |   Moderate   | Artistic projects, composite models               |   Proto-pasta   |
+| Conductive PLA   |     180°C     |     Low     |   Moderate   | Electronics, sensors                              |   Proto-pasta   |
 
 <br>    
 </details>
