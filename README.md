@@ -462,35 +462,9 @@ LG: "LG" stands for "Life's Good," and the abbreviation makes the brand name sho
 
 Dataset of 25 top types of 3D printer plastic.
 
-This dataset comprises information on the top 25 types of 3D printer plastics, a valuable resource for enthusiasts and professionals in the field of additive manufacturing. Each entry in the dataset includes five key attributes: the type of plastic, its melting point, flexibility, strength, and common uses, providing a comprehensive overview that facilitates material selection based on specific project requirements. For instance, materials such as ABS and PLA are noted for their application in general prototyping, with ABS offering high strength and PLA being favored for educational and biodegradable projects. Advanced materials like PEEK and ULTEM are highlighted for their high temperature resistance and applications in aerospace and medical industries. This dataset is essential for understanding the diverse properties and applications of various 3D printing plastics, aiding in the optimization of design and production processes in a multitude of industries.
+[3D_Printer_Plastics.csv](https://github.com/sourceduty/Data_Projects/files/15028691/3D_Printer_Plastics.csv)
 
-| Type of Plastic   | Melting Point | Flexibility | Strength     | Common Uses                                       | Top Brand       |
-|:-----------------:|:-------------:|:-----------:|:------------:|:-------------------------------------------------:|:---------------:|
-|        ABS        |     230°C     |     Low     |     High     | General prototyping, automotive parts             |    Ultimaker    |
-|        PLA        |     180°C     |     Low     |   Moderate   | Educational models, biodegradable items           |    Hatchbox     |
-|       PETG        |     230°C     |   Moderate  |     High     | Food safe containers, outdoor applications        |  MatterHackers  |
-|        TPU        |     225°C     |     High    |   Moderate   | Wearable devices, flexible parts                  |    NinjaTek     |
-|       Nylon       |     260°C     |     High    |     High     | Industrial tools, gears                           |   Taulman3D     |
-|        ASA        |     250°C     |     Low     |     High     | Outdoor applications, automotive                  |    3DXTech      |
-|        PVA        |     190°C     |     High    |     Low      | Support material, dissolvable                     |    Ultimaker    |
-|        PC         |     295°C     |     Low     |   Very High  | Bullet-proof glass, phone cases                   |    Polymaker    |
-|       HIPS        |     230°C     |     Low     |   Moderate   | Prototype models, dissolvable supports            |   Gizmo Dorks   |
-|        PP         |     220°C     |     High    |     High     | Living hinges, containers                         |      eSUN       |
-|       PEEK        |     343°C     |     Low     |   Very High  | Aerospace parts, medical implants                 |    3DXTECH      |
-|       ULTEM       |     360°C     |     Low     |   Very High  | High-temp applications, aerospace                 |     Sabic       |
-|        TPE        |     200°C     |     High    |   Moderate   | Flexible parts, gaskets                           |    NinjaTek     |
-|       PMMA        |     160°C     |     Low     |   Moderate   | Light fixtures, decorative objects                |    Polymaker    |
-|       PVDF        |     177°C     |     Low     |     High     | Chemical tanks, pipes                             |    3DXTECH      |
-|        PEI        |     340°C     |     Low     |   Very High  | High-temperature fixtures, aerospace              |     Ultem       |
-|       PAEK        |     360°C     |     Low     |   Very High  | Aerospace parts, high-performance components      |     Evonik      |
-|        FPE        |     260°C     |     High    |   Moderate   | Food containers, biodegradable items              |     Arkema      |
-|        PCL        |     60°C      |     High    |     Low      | Biomedical applications, low-melt models          |  MatterHackers  |
-|        MS         |     240°C     |     Low     |   Moderate   | Household appliances                              | Mitsubishi Chemical |
-|        PPS        |     280°C     |     Low     |   Very High  | Automotive parts, electronics                     |     Solvay      |
-|       PPSU        |     330°C     |     Low     |   Very High  | Medical instruments, sterilizable tools           |     Solvay      |
-|       LCP         |     280°C     |     Low     |     High     | High-strength gears, automotive                   |   Proto Labs    |
-|  PLA Composite    |     180°C     |   Moderate  |   Moderate   | Artistic projects, composite models               |   Proto-pasta   |
-| Conductive PLA   |     180°C     |     Low     |   Moderate   | Electronics, sensors                              |   Proto-pasta   |
+This dataset comprises information on the top 25 types of 3D printer plastics, a valuable resource for enthusiasts and professionals in the field of additive manufacturing. Each entry in the dataset includes five key attributes: the type of plastic, its melting point, flexibility, strength, and common uses, providing a comprehensive overview that facilitates material selection based on specific project requirements. For instance, materials such as ABS and PLA are noted for their application in general prototyping, with ABS offering high strength and PLA being favored for educational and biodegradable projects. Advanced materials like PEEK and ULTEM are highlighted for their high temperature resistance and applications in aerospace and medical industries. This dataset is essential for understanding the diverse properties and applications of various 3D printing plastics, aiding in the optimization of design and production processes in a multitude of industries.
 
 <br>    
 </details>
