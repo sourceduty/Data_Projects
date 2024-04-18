@@ -398,6 +398,20 @@ On the other hand, "Deviated Standards" typically refers to deviations or modifi
 <br>    
 </details>
 
+<details><summary>American Hats</summary>
+<br>
+
+![Hat](https://github.com/sourceduty/Data_Projects/assets/123030236/b474a0d0-37f4-4aea-8089-4050ef1f1431)
+
+Dataset of 166 American hats.
+
+[American Hats.xlsx](https://github.com/sourceduty/Data_Projects/files/15025940/American.Hats.xlsx)
+
+The dataset comprises 166 hats meticulously organized by Type, Material, Season, Estimated Price (USD), and Top Brand. Each entry offers a comprehensive insight into the diverse world of headwear, presenting a panorama of styles, fabrics, and brands. From classic fedoras to trendy beanies, the Type category delineates the varied styles available. Meanwhile, Material elucidates the construction, ranging from cozy wool to breathable cotton and luxurious silk. Season indicates the suitability of each hat for different climates and occasions, ensuring versatility in any wardrobe. The Estimated Price (USD) column provides an approximate value, offering valuable information for budget-conscious consumers and aficionados alike. Lastly, the Top Brand classification showcases the most renowned names in hat craftsmanship, guiding consumers towards quality and prestige. This dataset serves as an invaluable resource for market analysis, fashion research, and consumer insights within the vibrant realm of headwear.
+
+<br>    
+</details>
+
 ***
 ### Related Links
 
