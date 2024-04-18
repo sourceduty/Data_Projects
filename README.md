@@ -375,7 +375,7 @@ These trends indicate a maturing EV market with diverse offerings that cater to 
 <br>    
 </details>
 
-<details><summary>American Hats</summary>
+<details><summary>American Hats 2024</summary>
 <br>
 
 ![Hat](https://github.com/sourceduty/Data_Projects/assets/123030236/b474a0d0-37f4-4aea-8089-4050ef1f1431)
