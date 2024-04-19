@@ -469,6 +469,28 @@ This dataset comprises information on the top 25 types of 3D printer plastics, a
 <br>    
 </details>
 
+<details><summary>Top 25 Toyota Car Models in 2023</summary>
+<br>
+
+![Robot Racing](https://github.com/sourceduty/Data_Projects/assets/123030236/1a55d156-cee6-4e7f-b2ea-adfca075b4e9)
+
+Dataset for the top 25 Toyota Car models in 2023.
+
+[Top 25 Toyota Models in 2023.csv](https://github.com/sourceduty/Data_Projects/files/15031492/Top.25.Toyota.Models.in.2023.csv)
+
+This dataset provides a comprehensive overview of Toyota's top 25 models, capturing essential attributes that define each model's market positioning and performance characteristics. The dataset includes a range of attributes such as model name, car type, engine type, power output in horsepower, fuel efficiency in miles per gallon, and the starting price in USD. The models span various categories including sedans, SUVs, trucks, sports cars, hatchbacks, and minivans, highlighting Toyota's diverse product lineup. Engine options cover gasoline, hybrid, and even a hydrogen fuel cell variant, reflecting Toyota's commitment to both traditional and innovative powertrain technologies. The dataset provides an informative snapshot useful for automotive industry analysis, consumer research, and comparison across models based on performance and cost metrics.
+
+Dataset for a synthetic competitor.
+
+[Synthetic_Competitor_Models_2023.csv](https://github.com/sourceduty/Data_Projects/files/15031491/Synthetic_Competitor_Models_2023.csv)
+
+The "Synthetic Competitor Models 2023" dataset is a creatively fabricated collection of automotive specifications designed to resemble a plausible competitor to Toyota's 2023 lineup. It features 25 unique models, including sedans, SUVs, and trucks, each labeled as "Synthetic Model" followed by a sequential number. These models are characterized by varied engine types, primarily gasoline and hybrid, mirroring industry standards. The dataset includes modified specifications for power output and fuel efficiency, adjusted within a realistic range to maintain competitiveness in the market. Prices are also recalibrated randomly between 95% and 105% of the original Toyota prices to reflect competitive positioning. This dataset serves as a valuable tool for hypothetical market analysis, competitive strategy development, and academic exercises in automotive business studies.
+
+The "Synthetic Competitor Models 2023" dataset mirrors the structure of the original Toyota 2023 dataset closely, maintaining the same columns such as Model Name, Car Type, Engine Type, Power Output (HP), Fuel Efficiency (MPG), and Starting Price (USD). However, the content within these columns has been creatively altered. Model names in the synthetic dataset are standardized and anonymized with a generic naming convention ("Synthetic Model 1" through "Synthetic Model 25"), differing from the specific model names in the Toyota dataset. Engine specifications, power outputs, and fuel efficiencies have been slightly varied to simulate potential differences in engineering choices and market positioning, while still reflecting realistic automotive standards. Prices have been adjusted to show a competitive range, subtly differing by a percentage to suggest a different market strategy. This structured comparison allows for a direct analytical juxtaposition between the datasets, useful for understanding market positioning and product differentiation.
+
+<br>    
+</details>
+
 ***
 ### Notes
 
