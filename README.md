@@ -552,7 +552,7 @@ Analyzing the dataset of 100 trees, several trends emerge regarding their distri
 
 ![Cents](https://github.com/sourceduty/Data_Projects/assets/123030236/5771e254-fb58-4bc1-846e-0b97702bd43e)
 
-$0.01 in All 195 Countries
+Dataset for $0.01 in All 195 Countries
 
 [$0.01 in All 195 Countries.csv](https://github.com/sourceduty/Data_Projects/files/15038553/0.01.in.All.195.Countries.csv)
 
