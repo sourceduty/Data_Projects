@@ -519,6 +519,20 @@ The dataset reflects several prominent trends shaping the business landscape in 
 <br>    
 </details>
 
+<details><summary>50 English Word Cognates</summary>
+<br>
+
+Dataset for 50 common cognates across English, Dutch, and German.
+
+[50 English Word Cognates.csv](https://github.com/sourceduty/Data_Projects/files/15033109/50.English.Word.Cognates.csv)
+
+The dataset created contains a list of 50 common cognates across English, Dutch, and German, enriched with a similarity score based on their phonetic and orthographic resemblance. These cognates have been selected to illustrate the linguistic connections among these Germanic languages, reflecting both historical ties and mutual influence. The words span a variety of semantic fields including nature, body parts, everyday objects, and abstract concepts, providing a broad spectrum of the vocabulary. 
+
+Additionally, each entry has been assigned a similarity score ranging from 1 to 5, where a score of 5 indicates an exact match across all languages, and lower scores reflect varying degrees of difference. This scoring helps in quantitatively assessing the closeness of each cognate pair, which could be particularly useful for linguistic studies, language learning, and etymological research. The dataset not only serves as a linguistic tool but also as a cultural bridge, highlighting the shared heritage and ongoing connections between these languages.
+
+<br>    
+</details>
+
 ***
 ### Notes
 
