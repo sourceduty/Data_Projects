@@ -570,7 +570,7 @@ As for the remaining countries utilizing $0.01 coins, they employ these small de
 
 Dataset for $1.00 backed in 195 countries.
 
-[$1 Backed in 195 Countries.xlsx](https://github.com/sourceduty/Data_Projects/files/15039179/1.Backed.in.195.Countries.xlsx)
+[$1 Backed in 195 Countries.xlsx](https://github.com/sourceduty/Data_Projects/files/15039269/1.Backed.in.195.Countries.xlsx)
 
 The dataset presents a comprehensive overview of currencies from various countries around the world, each paired with its respective unit and method of backing or minting $1. Examining this dataset reveals several trends in global currency design and monetary policies. Notably, there's a predominance of note-based backing for $1 across many nations, indicating a preference for paper currency in facilitating everyday transactions. This trend underscores the importance of physical currency in economic systems despite the growing prevalence of digital payment methods. Additionally, the presence of coin-backed $1 in some countries suggests a commitment to maintaining physical currency circulation alongside digital advancements, catering to diverse consumer preferences and ensuring robustness in financial systems.
 
