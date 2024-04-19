@@ -533,6 +533,20 @@ Additionally, each entry has been assigned a similarity score ranging from 1 to 
 <br>    
 </details>
 
+<details><summary>100 North American Tree Species</summary>
+<br>
+
+Dataset of 100 North American tree species.
+
+[100 North American Tree Species.xlsx](https://github.com/sourceduty/Data_Projects/files/15033354/100.North.American.Tree.Species.xlsx)
+
+The dataset comprises information on 100 tree species native to North America, providing a comprehensive overview of the diverse flora found across the continent. Each entry includes the common name, scientific name, description, common location, and common height of the respective tree species. Spanning various habitats from coastal regions to boreal forests, these trees play vital roles in ecosystems, offering shelter, sustenance, and oxygen to a multitude of organisms. From towering conifers like the Eastern White Pine and Douglas Fir to deciduous species such as the Sugar Maple and Black Cherry, the dataset showcases the rich botanical heritage of North America. Whether valued for their timber, ornamental beauty, or ecological significance, these trees represent both the natural splendor and ecological importance of the continent's diverse landscapes.
+
+Analyzing the dataset of 100 trees, several trends emerge regarding their distribution and characteristics. Firstly, there is a noticeable prevalence of hardwood species, particularly in eastern North America, where diverse hardwood forests thrive. Species like the Eastern Red Oak, Sugar Maple, and White Oak dominate these regions, reflecting their ecological and economic significance. Conversely, coniferous trees, such as the Eastern White Pine and Black Spruce, are more common in northern boreal forests, adapting to colder climates and nutrient-poor soils. Additionally, certain species exhibit specific habitat preferences, with riparian trees like the River Birch and Eastern Cottonwood thriving along water bodies, while others like the Eastern Redcedar and Black Willow prefer drier environments. Overall, the dataset underscores the diverse ecological niches occupied by North American trees, reflecting their adaptability and ecological importance across varied landscapes.
+
+<br>    
+</details>
+
 ***
 ### Notes
 
