@@ -613,7 +613,7 @@ In the field of data science, the use of synthetic competitor data can be a powe
 <br>
 [Data Metrics](https://github.com/sourceduty/Data_Metrics)
 <br>
-[Data Cleaner & Processor](https://chat.openai.com/g/g-z6S0qcei3-data-cleaner-processor)
+[Data Generator](https://chat.openai.com/g/g-z6S0qcei3-data-generator)
 <br>
 [Data Simulator](https://chat.openai.com/g/g-mn28bwTPD-data-simulator)
 
