@@ -94,47 +94,47 @@ The dataset provided outlines the various combinations of the three primary colo
 Moreover, the dataset introduces the concept of "Color Harmony," providing a rating from 6 to 10 for each combination. This rating assesses the aesthetic compatibility and balance of the color combination, with higher scores indicating a greater degree of harmony. Single-color choices are assigned the highest harmony rating of 10, as they represent a pure, unified color scheme. Combinations involving two or three colors receive lower harmony ratings, reflecting the potential complexity and variability introduced by mixing multiple hues. Overall, this dataset serves as a comprehensive guide for understanding the visual impact and aesthetic qualities of different combinations of the primary colors, facilitating informed decisions in design and color selection.
 
 ```
-| Combination |   Color    | Contrast Rating | Color Harmony |
-|-------------|------------|-----------------|---------------|
-|      1      | Red        |        1        |       10      |
-|      2      | Green      |        1        |       10      |
-|      3      | Blue       |        1        |       10      |
-|      4      | Red, Red   |        2        |       8       |
-|      5      | Red, Green |        3        |       7       |
-|      6      | Red, Blue  |        3        |       7       |
-|      7      | Green, Red |        3        |       7       |
-|      8      | Green, Green |       2        |       8       |
-|      9      | Green, Blue |        3        |       7       |
-|     10      | Blue, Red  |        3        |       7       |
-|     11      | Blue, Green|        3        |       7       |
-|     12      | Blue, Blue |        2        |       8       |
-|     13      | Red, Red, Red |     3        |       6       |
-|     14      | Red, Red, Green |    4        |       5       |
-|     15      | Red, Red, Blue |     4        |       5       |
-|     16      | Red, Green, Red |    4        |       5       |
-|     17      | Red, Green, Green |   3        |       6       |
-|     18      | Red, Green, Blue |    4        |       5       |
-|     19      | Red, Blue, Red |     4        |       5       |
-|     20      | Red, Blue, Green |   4        |       5       |
-|     21      | Red, Blue, Blue |    3        |       6       |
-|     22      | Green, Red, Red |    4        |       5       |
-|     23      | Green, Red, Green |  3        |       6       |
-|     24      | Green, Red, Blue |   4        |       5       |
-|     25      | Green, Green, Red |  3        |       6       |
-|     26      | Green, Green, Green | 2        |       8       |
-|     27      | Green, Green, Blue |  3        |       6       |
-|     28      | Green, Blue, Red |   4        |       5       |
-|     29      | Green, Blue, Green | 3        |       6       |
-|     30      | Green, Blue, Blue |  3        |       6       |
-|     31      | Blue, Red, Red |     4        |       5       |
-|     32      | Blue, Red, Green |   4        |       5       |
-|     33      | Blue, Red, Blue |    3        |       6       |
-|     34      | Blue, Green, Red |   4        |       5       |
-|     35      | Blue, Green, Green | 3        |       6       |
-|     36      | Blue, Green, Blue |  3        |       6       |
-|     37      | Blue, Blue, Red |    3        |       6       |
-|     38      | Blue, Blue, Green |  3        |       6       |
-|     39      | Blue, Blue, Blue |   2        |       8       |
+| Combination   |        Color        | Contrast Rating | Color Harmony |
+|:-------------:|:-------------------:|:---------------:|:-------------:|
+|       1       |         Red         |        1        |       10      |
+|       2       |        Green        |        1        |       10      |
+|       3       |         Blue        |        1        |       10      |
+|       4       |       Red, Red      |        2        |       8       |
+|       5       |      Red, Green     |        3        |       7       |
+|       6       |       Red, Blue     |        3        |       7       |
+|       7       |      Green, Red     |        3        |       7       |
+|       8       |     Green, Green    |        2        |       8       |
+|       9       |      Green, Blue    |        3        |       7       |
+|      10       |       Blue, Red     |        3        |       7       |
+|      11       |      Blue, Green    |        3        |       7       |
+|      12       |       Blue, Blue    |        2        |       8       |
+|      13       |    Red, Red, Red    |        3        |       6       |
+|      14       |   Red, Red, Green   |        4        |       5       |
+|      15       |    Red, Red, Blue   |        4        |       5       |
+|      16       |   Red, Green, Red   |        4        |       5       |
+|      17       |  Red, Green, Green  |        3        |       6       |
+|      18       |   Red, Green, Blue  |        4        |       5       |
+|      19       |    Red, Blue, Red   |        4        |       5       |
+|      20       |   Red, Blue, Green  |        4        |       5       |
+|      21       |    Red, Blue, Blue  |        3        |       6       |
+|      22       |   Green, Red, Red   |        4        |       5       |
+|      23       |  Green, Red, Green  |        3        |       6       |
+|      24       |  Green, Red, Blue   |        4        |       5       |
+|      25       | Green, Green, Red   |        3        |       6       |
+|      26       | Green, Green, Green |        2        |       8       |
+|      27       | Green, Green, Blue  |        3        |       6       |
+|      28       |  Green, Blue, Red   |        4        |       5       |
+|      29       | Green, Blue, Green  |        3        |       6       |
+|      30       |  Green, Blue, Blue  |        3        |       6       |
+|      31       |    Blue, Red, Red   |        4        |       5       |
+|      32       |   Blue, Red, Green  |        4        |       5       |
+|      33       |    Blue, Red, Blue  |        3        |       6       |
+|      34       |   Blue, Green, Red  |        4        |       5       |
+|      35       |  Blue, Green, Green |        3        |       6       |
+|      36       |   Blue, Green, Blue |        3        |       6       |
+|      37       |    Blue, Blue, Red  |        3        |       6       |
+|      38       |   Blue, Blue, Green |        3        |       6       |
+|      39       |     Blue, Blue, Blue|        2        |       8       |
 ```
 
 <br>    
