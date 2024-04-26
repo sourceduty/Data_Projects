@@ -771,6 +771,116 @@ The dataset underscores the complex interplay between economic activities and th
 <br>    
 </details>
 
+<details><summary>100 Popular Modern Industries</summary>
+<br>
+
+| Modern Industries                          | Industry Age        | Industry Type                                   |
+|--------------------------------------------|---------------------|-------------------------------------------------|
+| Technology                                 | 20th Century        | Hardware, Software, IT Services                 |
+| Financial Services                         | 17th Century        | Banking, Insurance, Investment                  |
+| Healthcare                                 | Ancient             | Pharmaceuticals, Biotechnology, Medical Devices |
+| Automotive                                 | Late 19th Century   | Manufacturing, Sales, Services                  |
+| Energy                                     | 19th Century        | Oil & Gas, Renewable Energy                     |
+| Consumer Goods                             | Ancient             | FMCG, Retail, Apparel                           |
+| Telecommunications                         | 19th Century        | Telecommunications                              |
+| Aerospace and Defense                      | 20th Century        | Aerospace and Defense                           |
+| Manufacturing                              | Ancient             | Industrial Equipment, Machinery                 |
+| Construction and Engineering               | Ancient             | Construction and Engineering                    |
+| Food and Beverage                          | Ancient             | Food and Beverage                               |
+| Agriculture and Agribusiness               | Ancient             | Agriculture and Agribusiness                    |
+| Transportation and Logistics               | Ancient             | Transportation and Logistics                    |
+| Real Estate                                | Ancient             | Real Estate                                     |
+| Entertainment and Media                    | Ancient             | Entertainment and Media                         |
+| Chemicals                                  | Ancient             | Chemicals                                       |
+| Pharmaceuticals                            | Ancient             | Pharmaceuticals                                 |
+| Retail                                     | Ancient             | E-commerce, Brick-and-Mortar                    |
+| Hospitality and Tourism                    | Ancient             | Hospitality and Tourism                         |
+| Mining and Metals                          | Ancient             | Mining and Metals                               |
+| Professional Services                      | Ancient             | Consulting, Legal, Accounting                   |
+| Education and Training                     | Ancient             | Education and Training                          |
+| Insurance                                  | 17th Century        | Insurance                                       |
+| Textiles and Apparel                       | Ancient             | Textiles and Apparel                            |
+| Biotechnology                              | Late 20th Century   | Biotechnology                                   |
+| Pharmaceuticals                            | Ancient             | Pharmaceuticals                                 |
+| Printing and Publishing                    | Ancient             | Printing and Publishing                         |
+| Environmental Services                     | 20th Century        | Environmental Services                          |
+| Utilities                                  | 19th Century        | Utilities (Water, Electricity, Gas)             |
+| Government/Public Sector                   | Ancient             | Government/Public Sector                        |
+| Nonprofit Organizations                    | Ancient             | Nonprofit Organizations                         |
+| Fitness and Wellness                       | Ancient             | Fitness and Wellness                            |
+| Gaming                                     | 20th Century        | Gaming (Video Games, Casinos)                   |
+| Advertising and Marketing                  | Ancient             | Advertising and Marketing                       |
+| Personal Care and Beauty                   | Ancient             | Personal Care and Beauty                        |
+| Chemical Manufacturing                     | Ancient             | Chemical Manufacturing                          |
+| Renewable Energy                           | Late 20th Century   | Renewable Energy                                |
+| Waste Management                           | 20th Century        | Waste Management                                |
+| Telecommunications Equipment               | Late 19th Century   | Telecommunications Equipment                    |
+| Pharmaceuticals Manufacturing              | Late 19th Century   | Pharmaceuticals Manufacturing                   |
+| Industrial Automation                      | 20th Century        | Industrial Automation                           |
+| Venture Capital and Private Equity         | 20th Century        | Venture Capital and Private Equity              |
+| Cybersecurity                              | Late 20th Century   | Cybersecurity                                   |
+| Legal Services                             | Ancient             | Legal Services                                  |
+| Artificial Intelligence                    | 20th Century        | Artificial Intelligence                         |
+| Digital Marketing                          | 20th Century        | Digital Marketing                               |
+| Human Resources and Staffing               | Ancient             | Human Resources and Staffing                    |
+| Social Media                               | 21st Century        | Social Media                                    |
+| Mobile Technology                          | Late 20th Century   | Mobile Technology                               |
+| Clean Energy                               | Late 20th Century   | Clean Energy                                    |
+| Nanotechnology                             | Late 20th Century   | Nanotechnology                                  |
+| Data Analytics                             | 20th Century        | Data Analytics                                  |
+| Robotics                                   | 20th Century        | Robotics                                        |
+| Mobile Applications                        | 21st Century        | Mobile Applications                             |
+| Cloud Computing                            | 21st Century        | Cloud Computing                                 |
+| Augmented Reality/Virtual Reality          | 21st Century        | Augmented Reality/Virtual Reality               |
+| Internet of Things (IoT)                   | 21st Century        | Internet of Things (IoT)                        |
+| Big Data                                   | 21st Century        | Big Data                                        |
+| 3D Printing/Additive Manufacturing         | Late 20th Century   | 3D Printing/Additive Manufacturing              |
+| Financial Technology (Fintech)             | 21st Century        | Financial Technology (Fintech)                  |
+| Autonomous Vehicles                        | 21st Century        | Autonomous Vehicles                             |
+| Space Exploration                          | 20th Century        | Space Exploration                               |
+| Smart Cities                               | 21st Century        | Smart Cities                                    |
+| Blockchain and Cryptocurrency              | 21st Century        | Blockchain and Cryptocurrency                   |
+| Quantum Computing                          | 21st Century        | Quantum Computing                               |
+| Biomedical Engineering                     | 20th Century        | Biomedical Engineering                          |
+| Genetic Engineering                        | Late 20th Century   | Genetic Engineering                             |
+| HealthTech                                 | 21st Century        | HealthTech                                      |
+| Insurtech                                  | 21st Century        | Insurtech                                       |
+| EdTech                                     | 20th Century        | EdTech                                          |
+| Agritech                                   | Ancient             | Agritech                                        |
+| CleanTech                                  | Late 20th Century   | CleanTech                                       |
+| LegalTech                                  | 21st Century        | LegalTech                                       |
+| FoodTech                                   | 21st Century        | FoodTech                                        |
+| RetailTech                                 | 21st Century        | RetailTech                                      |
+| Music Industry                             | Ancient             | Music Industry                                  |
+| Film Industry                              | Late 19th Century   | Film Industry                                   |
+| Television Industry                        | 20th Century        | Television Industry                             |
+| Sports Industry                            | Ancient             | Sports Industry                                 |
+| Apparel Manufacturing                      | Ancient             | Apparel Manufacturing                           |
+| Electronics Manufacturing                  | 20th Century        | Electronics Manufacturing                       |
+| Oil & Gas Exploration and Production       | 19th Century        | Oil & Gas Exploration and Production            |
+| Renewable Energy Equipment Manufacturing   | Late 20th Century   | Renewable Energy Equipment Manufacturing        |
+| Semiconductor Manufacturing                | 20th Century        | Semiconductor Manufacturing                     |
+| Automotive Parts Manufacturing             | Late 19th Century   | Automotive Parts Manufacturing                  |
+| Pharmaceutical Research and Development    | 19th Century        | Pharmaceutical Research and Development         |
+| Medical Equipment Manufacturing            | Late 19th Century   | Medical Equipment Manufacturing                 |
+| Logistics and Supply Chain Management      | Ancient             | Logistics and Supply Chain Management           |
+| Chemical Engineering                       | Ancient             | Chemical Engineering                            |
+| Hospitality Services                       | Ancient             | Hospitality Services                            |
+| Travel Agencies                            | Late 19th Century   | Travel Agencies                                 |
+| Event Management                           | Ancient             | Event Management                                |
+| Market Research                            | Ancient             | Market Research                                 |
+| Financial Advisory                         | Ancient             | Financial Advisory                              |
+| Investment Banking                         | Ancient             | Investment Banking                              |
+| Wealth Management                          | Ancient             | Wealth Management                               |
+| Real Estate Development                    | Ancient             | Real Estate Development                         |
+
+The dataset provided encapsulates a comprehensive overview of industries spanning various ages, from ancient times to the modern era. It encompasses a vast spectrum of sectors, including technology, finance, healthcare, automotive, energy, consumer goods, and more. Each industry is meticulously categorized based on its historical emergence, from those dating back to ancient civilizations to those born in the 21st century technological revolution.
+
+Through this dataset, one can discern the evolutionary trajectory of human economic activities and the dynamic interplay between societal needs, technological advancements, and cultural developments. It not only serves as a historical record but also as a testament to the relentless innovation and adaptation that have shaped our world. Moreover, this dataset offers invaluable insights for researchers, policymakers, and business leaders seeking to understand the intricate fabric of global industries and the forces driving their evolution in the contemporary landscape.
+
+<br>    
+</details>
+
 ***
 ### Related Links
 
