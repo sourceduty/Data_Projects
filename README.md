@@ -120,6 +120,18 @@ To successfully develop a data project analyzing inconsistencies in laws and reg
 ***
 ### Data Projects
 
+<details><summary>60 Spanish-English Cognates</summary>
+<br>
+
+[Spanish_English_Cognates.csv](https://github.com/sourceduty/Data_Projects/files/15133868/Spanish_English_Cognates.csv)
+
+The dataset of 60 Spanish-English cognates provides a valuable resource for both language learners and educators. It showcases words that are similar in form and meaning across both languages, highlighting the linguistic bridges due to the shared Latin roots of Spanish and English. The inclusion of various parts of speech such as nouns, verbs, and adjectives, offers a comprehensive look at how these cognates can enrich vocabulary acquisition, making it easier for learners to remember and recognize patterns in language learning. The presence of such cognates not only aids in vocabulary building but also enhances the understanding of language structures, facilitating smoother transitions between learning Spanish and English.
+
+This curated collection is also instrumental for comparative linguistic studies, enabling researchers to analyze the phonetic and semantic similarities between the two languages. By examining words like "decision" and "decisión" or "university" and "universidad", one can explore the subtle transformations and adaptations that occur in language evolution. The dataset serves not only as an educational tool but also as a linguistic bridge, underscoring the interconnectedness of Spanish and English through shared etymological histories. For anyone involved in bilingual education, translation studies, or language curriculum development, this dataset offers a practical and insightful resource.
+
+<br>    
+</details>
+
 <details><summary>Three Primary Colors</summary>
 <br>
 
