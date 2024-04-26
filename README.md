@@ -706,6 +706,71 @@ In the field of data science, the use of synthetic competitor data can be a powe
 <br>    
 </details>
 
+<details><summary>100 Unpopular Industries</summary>
+<br>
+
+The dataset presents a comprehensive overview of 100 industries categorized by various metrics, including environmental impact, social impact, ethical concerns, legal scrutiny, and economic sustainability. Each industry is assessed subjectively across these dimensions, providing insights into their overall societal and environmental footprint. From high-profile sectors like tobacco manufacturing and adult entertainment to less conspicuous ones like waste management and pest control, the dataset offers a broad perspective on industries that often face public scrutiny and controversy due to their practices.
+
+Environmental impact emerges as a prevalent theme, with many industries marked by high levels of environmental degradation, such as coal mining, fracking, and chemical weapons production. These activities not only contribute to pollution but also pose long-term risks to ecosystems and human health. Social impact and ethical concerns are also prominent, particularly in industries like fur farming, private prisons, and payday lending, where exploitation, inequality, and unethical practices are prevalent. Moreover, legal scrutiny varies across industries, with some facing stringent regulations and others operating in legal gray areas, contributing to economic volatility and sustainability challenges.
+
+The dataset underscores the complex interplay between economic activities and their broader societal consequences. While some industries exhibit stable economic sustainability despite ethical and environmental concerns, others are in decline due to increasing legal scrutiny, changing consumer attitudes, and regulatory pressures. Understanding and addressing these dynamics is crucial for policymakers, businesses, and consumers alike to foster more sustainable and socially responsible practices across industries, mitigating negative impacts on the environment, society, and the economy.
+
+| Industry                       | Environmental Impact | Social Impact        | Ethical Concerns    | Legal Scrutiny      | Economic Sustainability |
+|--------------------------------|----------------------|----------------------|---------------------|---------------------|-------------------------|
+| Tobacco manufacturing          | High                 | High                 | High                | Medium              | Stable                  |
+| Adult entertainment            | Medium               | High                 | High                | High                | Stable                  |
+| Waste management               | Medium               | High                 | Medium              | High                | Stable                  |
+| Gambling                       | Medium               | High                 | Medium              | High                | Varies                  |
+| Pest control                   | Low                  | Medium               | Medium              | Medium              | Stable                  |
+| Fur farming                    | High                 | High                 | High                | High                | Declining               |
+| Chemical weapons production    | High                 | High                 | High                | High                | Stable                  |
+| Debt collection                | Low                  | High                 | Medium              | High                | Stable                  |
+| Private prisons                | Low                  | High                 | High                | High                | Stable                  |
+| Coal mining                    | High                 | High                 | High                | High                | Declining               |
+| Asbestos removal               | High                 | High                 | High                | High                | Stable                  |
+| Taxidermy                      | Low                  | Medium               | Medium              | Medium              | Stable                  |
+| Armament manufacturing         | High                 | High                 | High                | High                | Stable                  |
+| Fast fashion                   | High                 | High                 | High                | High                | Declining               |
+| Fracking                       | High                 | High                 | High                | High                | Declining               |
+| Fur trapping                   | High                 | High                 | High                | High                | Declining               |
+| Telemarketing                  | Low                  | Medium               | Medium              | Medium              | Stable                  |
+| Cigarette distribution         | High                 | High                 | High                | High                | Stable                  |
+| Unregulated cryptocurrency     | Low                  | High                 | High                | High                | Volatile                |
+| Landfill operation             | High                 | High                 | High                | High                | Stable                  |
+| Factory farming                | High                 | High                 | High                | High                | Stable                  |
+| Subprime lending               | Low                  | High                 | High                | High                | Stable                  |
+| Bail bond services             | Low                  | High                 | High                | High                | Stable                  |
+| Trophy hunting                 | High                 | High                 | High                | High                | Declining               |
+| Payday lending                 | Low                  | High                 | High                | High                | Declining               |
+| Sweatshop labor                | Low                  | High                 | High                | High                | Declining               |
+| Whaling                        | High                 | High                 | High                | High                | Declining               |
+| Synthetic drug manufacturing   | High                 | High                 | High                | High                | Declining               |
+| Exotic animal trade            | High                 | High                 | High                | High                | Declining               |
+| Lead mining                    | High                 | High                 | High                | High                | Declining               |
+| Oil drilling                   | High                 | High                 | High                | High                | Declining               |
+| Pay-to-win gaming              | Low                  | Medium               | Medium              | High                | Stable                  |
+| Ivory trade                    | High                 | High                 | High                | High                | Declining               |
+| Asylum detention centers       | Low                  | High                 | High                | High                | Stable                  |
+| Commercial logging             | High                 | High                 | High                | High                | Declining               |
+| Predatory lending              | Low                  | High                 | High                | High                | Declining               |
+| Deep-sea trawling              | High                 | High                 | High                | High                | Declining               |
+| Conflict mineral extraction    | High                 | High                 | High                | High                | Declining               |
+| Strip mining                   | High                 | High                 | High                | High                | Declining               |
+| Robocalling                    | Low                  | Medium               | Medium              | High                | Stable                  |
+| Synthetic pesticide production | High                 | High                 | High                | High                | Declining               |
+| Shark finning                  | High                 | High                 | High                | High                | Declining               |
+| Nuclear waste disposal         | High                 | High                 | High                | High                | Stable                  |
+| Patent trolling                | Low                  | Medium               | Medium              | High                | Stable                  |
+| Legal loan sharking            | Low                  | High                 | High                | High                | Declining               |
+| Fossil fuel extraction         | High                 | High                 | High                | High                | Declining               |
+| Conversion therapy             | Low                  | High                 | High                | High                | Declining               |
+| Invasive species removal       | Medium               | Medium               | Medium              | High                | Stable                  |
+| Cryptocurrency scamming        | Low                  | High                 | High                | High                | Volatile                |
+| Electronic waste dumping       | High                 | High                 | High                | High                | Stable                  |
+
+<br>    
+</details>
+
 ***
 ### Related Links
 
