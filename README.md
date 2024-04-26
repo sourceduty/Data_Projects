@@ -5,6 +5,40 @@ Sourceduty's data projects represent a pinnacle of innovation and precision in t
 ***
 ### Big Data Project Concepts
 
+<details><summary>Top 50 Cognates in Every Language</summary>
+<br>
+
+### Top 50 Cognates in Every Language
+
+Creating a comprehensive list of the top 50 cognates across all languages would be an enormous undertaking due to the diversity and number of languages worldwide, each with its unique historical developments and interactions. There are approximately 7,000 languages spoken around the world today. This number can fluctuate slightly due to new languages being discovered, languages dying out, or dialects being reclassified as languages. The diversity of languages is vast, with many spoken by only a small number of people and considered endangered. The greatest linguistic diversity is found in regions like New Guinea, India, and Africa, where multiple languages can be spoken in relatively close geographical proximity.
+
+### Data Project Plan
+
+1. **Select a Language Family**:
+   
+   - Start with a well-studied language family where historical linguistics has well-documented cognates, such as Indo-European or Afro-Asiatic.
+
+3. **Gather Linguistic Resources**:
+   
+   - Use dictionaries, historical linguistics research, and databases like the Tower of Babel (StarLing) project, which provides comparative lexical data across many languages.
+
+5. **Identify Cognates**:
+   
+   - Focus on basic vocabulary terms that are likely to have preserved cognates, such as numbers, family terms, and common objects.
+   - Use linguistic criteria to identify cognates, such as sound correspondences and shared morphology.
+
+7. **Document and Analyze**:
+   
+   - Record your findings in a structured database or spreadsheet.
+   - Analyze patterns of cognate distribution to understand historical connections and linguistic evolution.
+
+9. **Expand to Other Families**:
+    
+   - Once you have a methodology, apply it to other language families, adjusting for different linguistic characteristics and available resources.
+
+<br>    
+</details>
+
 <details><summary>Canadian Law Deviance</summary>
 <br>
 
