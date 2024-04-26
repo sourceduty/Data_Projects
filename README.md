@@ -709,12 +709,6 @@ In the field of data science, the use of synthetic competitor data can be a powe
 <details><summary>100 Unpopular Industries</summary>
 <br>
 
-The dataset presents a comprehensive overview of 100 industries categorized by various metrics, including environmental impact, social impact, ethical concerns, legal scrutiny, and economic sustainability. Each industry is assessed subjectively across these dimensions, providing insights into their overall societal and environmental footprint. From high-profile sectors like tobacco manufacturing and adult entertainment to less conspicuous ones like waste management and pest control, the dataset offers a broad perspective on industries that often face public scrutiny and controversy due to their practices.
-
-Environmental impact emerges as a prevalent theme, with many industries marked by high levels of environmental degradation, such as coal mining, fracking, and chemical weapons production. These activities not only contribute to pollution but also pose long-term risks to ecosystems and human health. Social impact and ethical concerns are also prominent, particularly in industries like fur farming, private prisons, and payday lending, where exploitation, inequality, and unethical practices are prevalent. Moreover, legal scrutiny varies across industries, with some facing stringent regulations and others operating in legal gray areas, contributing to economic volatility and sustainability challenges.
-
-The dataset underscores the complex interplay between economic activities and their broader societal consequences. While some industries exhibit stable economic sustainability despite ethical and environmental concerns, others are in decline due to increasing legal scrutiny, changing consumer attitudes, and regulatory pressures. Understanding and addressing these dynamics is crucial for policymakers, businesses, and consumers alike to foster more sustainable and socially responsible practices across industries, mitigating negative impacts on the environment, society, and the economy.
-
 | Industry                       | Environmental Impact | Social Impact        | Ethical Concerns    | Legal Scrutiny      | Economic Sustainability |
 |--------------------------------|----------------------|----------------------|---------------------|---------------------|-------------------------|
 | Tobacco manufacturing          | High                 | High                 | High                | Medium              | Stable                  |
@@ -767,6 +761,12 @@ The dataset underscores the complex interplay between economic activities and th
 | Invasive species removal       | Medium               | Medium               | Medium              | High                | Stable                  |
 | Cryptocurrency scamming        | Low                  | High                 | High                | High                | Volatile                |
 | Electronic waste dumping       | High                 | High                 | High                | High                | Stable                  |
+
+The dataset presents a comprehensive overview of 100 industries categorized by various metrics, including environmental impact, social impact, ethical concerns, legal scrutiny, and economic sustainability. Each industry is assessed subjectively across these dimensions, providing insights into their overall societal and environmental footprint. From high-profile sectors like tobacco manufacturing and adult entertainment to less conspicuous ones like waste management and pest control, the dataset offers a broad perspective on industries that often face public scrutiny and controversy due to their practices.
+
+Environmental impact emerges as a prevalent theme, with many industries marked by high levels of environmental degradation, such as coal mining, fracking, and chemical weapons production. These activities not only contribute to pollution but also pose long-term risks to ecosystems and human health. Social impact and ethical concerns are also prominent, particularly in industries like fur farming, private prisons, and payday lending, where exploitation, inequality, and unethical practices are prevalent. Moreover, legal scrutiny varies across industries, with some facing stringent regulations and others operating in legal gray areas, contributing to economic volatility and sustainability challenges.
+
+The dataset underscores the complex interplay between economic activities and their broader societal consequences. While some industries exhibit stable economic sustainability despite ethical and environmental concerns, others are in decline due to increasing legal scrutiny, changing consumer attitudes, and regulatory pressures. Understanding and addressing these dynamics is crucial for policymakers, businesses, and consumers alike to foster more sustainable and socially responsible practices across industries, mitigating negative impacts on the environment, society, and the economy.
 
 <br>    
 </details>
