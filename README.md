@@ -891,6 +891,8 @@ Through this dataset, one can discern the evolutionary trajectory of human econo
 [Data Generator](https://chat.openai.com/g/g-z6S0qcei3-data-generator)
 <br>
 [Data Simulator](https://chat.openai.com/g/g-mn28bwTPD-data-simulator)
+<br>
+[Sourceduty Datasets](https://www.kaggle.com/sourceduty)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
