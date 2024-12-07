@@ -118,6 +118,9 @@ To successfully develop a data project analyzing inconsistencies in laws and reg
 </details>
 
 ***
+![Databombing](https://github.com/user-attachments/assets/e7e0bba9-b3f3-401d-ade6-1679be86381a)
+
+***
 ### Data Projects
 
 <details><summary>60 Spanish-English Cognates</summary>
